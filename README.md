@@ -1,13 +1,8 @@
 <p > <align="left"> 
-  Olá meu nome é Bruno e pretendo me aperfeiçoar na parte de <strong> Desenvolvedor FullStack</strong>.<br>
+  Olá meu nome é Rafael e  pretendo me aperfeiçoar na parte de <strong> Desenvolvedor FullStack</strong>.<br>
   Estou fazendo o curso de <strong>Desenvolvimento de Sistemas </strong>na ETEC Joaquim Ferreira do Amaral em Jaú.  
 </p>
 <strong>Formas de contato:</strong>
-
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_freitas.bjj/)
-
-[![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/BrunoFreitas09)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 <strong><h2>Linguagens utilizadas:</h2></strong>

@@ -7,7 +7,7 @@
 
 
 
-![Rxfinha-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxfinha-dev_icons=true&theme=dracula)
+![Rxfinha-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxfinha-dev&show icons=true&theme=dracula)
 
 <strong><h2>Linguagens utilizadas:</h2></strong>
 

@@ -1,9 +1,13 @@
+
 <p > <align="left"> 
-  Olá meu nome é Rafael e  pretendo me aperfeiçoar na parte de <strong> Desenvolvedor FullStack</strong>.<br>
+  Olá meu nome é Rafael e estou buscando aperfeiçoar como um <strong> Desenvolvedor FullStack</strong>.<br>
   Estou fazendo o curso de <strong>Desenvolvimento de Sistemas </strong>na ETEC Joaquim Ferreira do Amaral em Jaú.  
 </p>
 <strong>Formas de contato:</strong>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
+
+
+![Rxfinha-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxfinha-dev_icons=true&theme=dracula)
 
 <strong><h2>Linguagens utilizadas:</h2></strong>
 

@@ -7,7 +7,7 @@
 
 
 
-![Rxfinha-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxfinha-dev&showicons=true&theme=github_dark)
+![Rxfinha-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxfinha-dev&showicons=true&theme=apprentice)
 
 
 <strong><h3>☕Linguagens:</h3></strong> 
@@ -19,4 +19,4 @@
                           <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github" />
                       </a>   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=120&section=footer"/>

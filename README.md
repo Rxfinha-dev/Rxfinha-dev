@@ -8,6 +8,7 @@
 
 
 ![Rxfinha-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxfinha-dev&showicons=true&theme=dracula)
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rxfinha-dev&layout=compact&langs_count=7&theme=apprentice"/>
 
 <strong><h2>Linguagens utilizadas:</h2></strong>
 

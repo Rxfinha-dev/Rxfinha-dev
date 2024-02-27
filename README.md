@@ -32,7 +32,3 @@
 <div style="display: inline_block">
 <img alt="html" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
-
-<div style="display: inline_block">
-<img alt="html" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-</div>

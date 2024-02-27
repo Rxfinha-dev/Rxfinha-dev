@@ -10,19 +10,10 @@
 ![Rxfinha-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxfinha-dev&showicons=true&theme=apprentice)
 
 
-<strong><h2>Linguagens utilizadas:</h2></strong>
-
-<div style="display: inline_block">
-<img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</div>
-
-<div style="display: inline_block">
-<img alt="html" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor="/>
-</div>
-<div style="display: inline_block">
-<img alt="html" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-
+<h3>☕Linguagens:</h3> 
+                      <a href="https://skillicons.dev">
+                          <img src="https://skillicons.dev/icons?i=html,css,cs,git,,php,mysql=5" />
+                      </a>
 <h2><strong> Ferramentas utilizadas🛸:</strong></h2>
 
 <div style="display: inline_block">

@@ -19,4 +19,4 @@
                           <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github" />
                       </a>   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d3d3d3&height=120&section=footer"/>

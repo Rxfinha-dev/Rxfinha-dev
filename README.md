@@ -10,12 +10,14 @@
 ![Rxfinha-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxfinha-dev&showicons=true&theme=apprentice)
 
 
-<h3>☕Linguagens:</h3> 
+<strong><h3>☕Linguagens:</h3></strong> 
                       <a href="https://skillicons.dev">
                           <img src="https://skillicons.dev/icons?i=html,css,cs,git,php,mysql=6" />
                       </a>
-<h2><strong>🛸 Ferramentas utilizadas:</strong></h2>
-
+<h3><strong>🛸 Ferramentas utilizadas:</strong></h3>
+    <a href="https://skillicons.dev">
+                          <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github" />
+                      </a>   
 <div style="display: inline_block">
 <img alt="html" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 </div>

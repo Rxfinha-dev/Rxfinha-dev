@@ -7,7 +7,7 @@
 
 
 
-![Rxfinha-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxfinha-dev&showicons=true&theme=apprentice)
+![Rxfinha-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxfinha-dev&showicons=true&theme=github_dark)
 
 
 <strong><h3>☕Linguagens:</h3></strong> 

@@ -12,9 +12,9 @@
 
 <h3>☕Linguagens:</h3> 
                       <a href="https://skillicons.dev">
-                          <img src="https://skillicons.dev/icons?i=html,css,cs,git,,php,mysql=5" />
+                          <img src="https://skillicons.dev/icons?i=html,css,cs,git,php,mysql=6" />
                       </a>
-<h2><strong> Ferramentas utilizadas🛸:</strong></h2>
+<h2><strong>🛸 Ferramentas utilizadas:</strong></h2>
 
 <div style="display: inline_block">
 <img alt="html" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>

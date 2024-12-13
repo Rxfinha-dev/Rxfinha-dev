@@ -16,7 +16,7 @@
                       </a>
 <h3><strong>🛸 Ferramentas utilizadas:</strong></h3>
     <a href="https://skillicons.dev">
-                          <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github" />
+                          <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,notion,discord" />
                       </a>   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d3d3d3&height=120&section=footer"/>

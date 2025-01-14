@@ -10,7 +10,7 @@
 ![Rxfinha-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rxfinha-dev&showicons=true&theme=apprentice)
 
 
-<strong><h3>☕Linguagens:</h3></strong> 
+<strong><h3>☕Linguagens e Frameworks:</h3></strong> 
                       <a href="https://skillicons.dev">
                           <img src="https://skillicons.dev/icons?i=html,css,cs,git,php,react,mysql=6" />
                       </a>

@@ -12,7 +12,7 @@
 
 <strong><h3>☕Linguagens e Frameworks:</h3></strong> 
                       <a href="https://skillicons.dev">
-                          <img src="https://skillicons.dev/icons?i=html,css,cs,php,react,mysql=6" />
+                          <img src="https://skillicons.dev/icons?i=html,css,javascript,cs,php,react,mysql=6" />
                       </a>
 <h3><strong>🛸 Ferramentas utilizadas:</strong></h3>
     <a href="https://skillicons.dev">

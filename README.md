@@ -1,7 +1,7 @@
 
 <p > <align="left"> 
   Olá meu nome é Rafael e estou buscando me aperfeiçoar como um <strong> Desenvolvedor FullStack</strong>.<br>
-  Estou fazendo o curso de <strong>Desenvolvimento de Sistemas </strong>na ETEC Joaquim Ferreira do Amaral em Jaú.  
+  Aqui está algumas habilidade que possuo:
 </p>
 
 

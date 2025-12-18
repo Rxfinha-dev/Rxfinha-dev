@@ -9,11 +9,11 @@
 
 <strong><h3>☕Linguagens e Frameworks:</h3></strong> 
                       <a href="https://skillicons.dev">
-                          <img src="https://skillicons.dev/icons?i=html,css,javascript,cs,php,dotnet,react,mysql=6" />
+                          <img src="https://skillicons.dev/icons?i=html,css,javascript,cs,php,dotnet,react,flutter,mysql=6" />
                       </a>
 <h3><strong>🛸 Ferramentas utilizadas:</strong></h3>
     <a href="https://skillicons.dev">
-                          <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,notion,discord" />
+                          <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,figma,github,notion,discord" />
                       </a>   
 
 

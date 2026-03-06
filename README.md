@@ -13,7 +13,7 @@
                       </a>
 <h3><strong>🛸 Ferramentas utilizadas:</strong></h3>
     <a href="https://skillicons.dev">
-                          <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,figma,github,notion,discord" />
+                          <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,figma,vercel,github,notion,discord" />
                       </a>   
 
 
